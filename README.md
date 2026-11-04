@@ -19,15 +19,13 @@ Estimación del puntaje de calidad (`quality`) de vinos tintos *Vinho Verde* a p
 kdd_wine_regresion/
 
 ├── docs/
-│   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo práctico
+│   └── TP1_Evaluativo_2026.pdf        # Consigna del trabajo
 ├── notebooks/
-│   └── TP1_KDD_Vino_Regresion.ipynb   # Código completo y comentado de las 6 etapas KDD
-└── README.md
-├── app.py                             # App web de Streamlit (una pestaña por etapa KDD)
-├── data/                              # (opcional) winequality-red.csv para correr sin internet
-├── informe/                           # Informe (.docx) generado por el notebook (máx. 4 páginas)
+│   └── TP1_KDD_Vino_Regresion.ipynb   # Código completo
+├── informe/                           # Informe (.pdf)
+├── README.md
+├── app.py                             # App web de Streamlit
 ├── requirements.txt                   # Dependencias de Python
-├── .gitignore
 
 ```
 ## Etapas KDD cubiertas
