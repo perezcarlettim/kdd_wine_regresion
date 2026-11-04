@@ -1,5 +1,5 @@
 # Proceso KDD: Regresión Lineal vs. Árbol de Decisión 
-[![Streamlit App](https://streamlit.io)](https://kddwineregresion.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kddwineregresion.streamlit.app/)
 
 
 
