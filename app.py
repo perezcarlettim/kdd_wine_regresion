@@ -246,9 +246,9 @@ def correr_pipeline(df_raw, seed):
 # Carga de datos
 # ======================================================================
 st.title("🍷 Proceso KDD: Regresión Lineal vs. Árbol de Decisión")
-st.caption("TP Evaluativo Nº 1 · Minería de Datos II · ITSE · Tecnicatura Superior en Ciencia de Datos e IA · Perez Carletti, Martin"
+st.caption("TP Evaluativo Nº 1 · Minería de Datos II · ITSE · Tecnicatura Superior en Ciencia de Datos e IA · Perez Carletti, Martin")
            
-           "Dataset: Wine Quality (Vinho Verde tinto), UCI — Cortez et al. (2009)")
+st.caption("Dataset: Wine Quality (Vinho Verde tinto), UCI — Cortez et al. (2009)")
 
 with st.sidebar:
     st.header("⚙️ Configuración")
